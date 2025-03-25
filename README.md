@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Naman Jain
-- 👀 I’m interested in Data Science and Java Programming 
-- 🌱 I’m currently learning new technologies currently learning Javascript
-- 💞️ I’m looking to collaborate on projects related to data science.
+- 👀 I’m interested in iOS Mobile App Development and Swift Programming. 
+- 💞️ I’m looking to collaborate on projects related to iOS Apps.
 - 📫 How to reach me .. mail me on - nj150901@gmail.com or you can visit my linked in profile - https://www.linkedin.com/in/naman8081/
 
 <!---
